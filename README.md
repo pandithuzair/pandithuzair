@@ -1,4 +1,4 @@
-👋 Hi, I'm Uzair Pandith
+## 👋 Hi, I'm Uzair Pandith
 
 Product & Market Research Analyst| Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
