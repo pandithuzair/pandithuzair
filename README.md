@@ -1,29 +1,25 @@
-## 👋 Hi, I'm Uzair Pandith
+# 👋 Hi, I'm Uzair Pandith
 
 Product & Market Research Analyst| Data Analyst | Aspiring Data Scientist | Machine Learning Enthusiast
 
 Welcome to my GitHub 👨‍💻
 I'm passionate about transforming raw data into actionable insights and building machine learning models that solve real-world challenges. With a strong foundation in data analysis and Python, I specialize in blending analytics, visualization, and clean code practices to drive impactful results.
 
-🔍 What I’m Working On
+# 🔍 What I’m Working On
 
 Currently building and refining data projects, focusing on clean pipelines and ML deployment:
 
-🏗️ Machine Learning & Data Analysis
+- 🏗️ Machine Learning & Data Analysis
+1. Building classification models using Python and scikit-learn.
+2. Applying EDA, feature engineering, and hyperparameter tuning for optimized models.
 
-Building classification models using Python and scikit-learn.
+ - 📊 Interactive Dashboards in Power BI
+1. Designing clear, actionable dashboards to visualize trends in sales, inventory, and operational KPIs.
 
-Applying EDA, feature engineering, and hyperparameter tuning for optimized models.
+- 🧹 Data Cleaning & Automation
+1. Automating repetitive data processing tasks with Python and Pandas.
 
-📊 Interactive Dashboards in Power BI
-
-Designing clear, actionable dashboards to visualize trends in sales, inventory, and operational KPIs.
-
-🧹 Data Cleaning & Automation
-
-Automating repetitive data processing tasks with Python and Pandas.
-
-🛠️ Tech Stack & Skills
+# 🛠️ Tech Stack & Skills
 
 Languages & Tools:Python | SQL | Power BI | Excel | Git | Jupyter | scikit-learn | Pandas | Matplotlib | Seaborn
 
