@@ -72,8 +72,20 @@ Developed reusable Python scripts for batch cleaning of CSV datasets.
 ---
 ## 🤝 Let’s Connect
 
-🔗 [**LinkedIn**] (https://www.linkedin.com/in/uzair-pandith/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uzairpandith&style=for-the-badge&color=brightgreen" alt="Profile views" />
+  
+  <a href="https://linkedin.com/in/uzair-pandith" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://resume.uzairpandith.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-orange?logo=readthedocs&style=for-the-badge" alt="Resume"/>
+  </a>
+  <a href="mailto:pandithuzair@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-pandithuzair@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email"/>
+  </a>
+</p>
 
-📩 **Email:** pandithuzair@gmail.com
+---
 
 
