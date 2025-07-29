@@ -29,11 +29,18 @@ Currently building and refining data projects, focusing on clean pipelines and M
 
 Languages & Tools:
 ### 🧑‍💻 Languages & Scripting:
-`SQL` | `Python` | `DAX` | `R`
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-1176C1?logo=powerbi&logoColor=white&style=flat-square)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
+
+
 ### 📊 Data & BI Tools:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-29B5E8?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 🛠️ **Data Processing:** `PySpark` | `Pandas` | `NumPy` | `ETL` | `scikit-learn` | `Matplotlib` | `Seaborn` | `Jupyter Notebooks` | `Google Collab`
 
