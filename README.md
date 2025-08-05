@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=📚+Translating+Research+into+Data-Driven+Strategy;🧠+Bridging+Theoretical+Insight+and+Real-World+Impact" alt="Typing SVG">
-</div>
 
-----
 # Welcome to my digital workspace — where data meets purpose.
 ## 👋 Hi, I'm Uzair Pandith 
 I'm passionate about transforming raw data into actionable insights and building machine learning models that solve real-world challenges. With a strong foundation in data analysis and Python, I specialize in blending analytics, visualization, and clean code practices to drive impactful results..
