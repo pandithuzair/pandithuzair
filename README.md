@@ -65,6 +65,9 @@ Created interactive dashboards visualizing sales KPIs, trends, and regional perf
 
 ### 🧹 Data Cleaning Automation Scripts - *Python*
 Developed reusable Python scripts for batch cleaning of CSV datasets.
+## 📄 View My Resume
+
+[Click here to view/download my resume](./Uzair_PandithResume01.pdf)
 
 ---
 ## 🤝 Let’s Connect
