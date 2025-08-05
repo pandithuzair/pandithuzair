@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=📚+Translating+Research+into+Data-Driven+Strategy;📐+Exploring+Patterns+Through+Quantitative+Analysis;🧠+Bridging+Theoretical+Insight+and+Real-World+Impact" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=📚+Translating+Research+into+Data-Driven+Strategy;🧠+Bridging+Theoretical+Insight+and+Real-World+Impact" alt="Typing SVG">
 </div>
 
 ----
