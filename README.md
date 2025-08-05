@@ -1,6 +1,7 @@
 
 # Welcome to my digital workspace — where data meets purpose.
 ## 👋 Hi, I'm Uzair Pandith 
+
 I'm passionate about transforming raw data into actionable insights and building machine learning models that solve real-world challenges. With a strong foundation in data analysis and Python, I specialize in blending analytics, visualization, and clean code practices to drive impactful results..
 
 Let’s transform data into meaningful outcomes. 🚀
