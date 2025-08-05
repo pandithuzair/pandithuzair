@@ -78,7 +78,7 @@ Developed reusable Python scripts for batch cleaning of CSV datasets.
   <a href="https://linkedin.com/in/uzair-pandith" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://resume.uzairpandith.com" target="_blank">
+ <a href="https://resume.uzairpandith.com" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-orange?logo=readthedocs&style=for-the-badge" alt="Resume"/>
   </a>
   <a href="mailto:pandithuzair@gmail.com" target="_blank">
