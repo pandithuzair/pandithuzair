@@ -67,7 +67,9 @@ Created interactive dashboards visualizing sales KPIs, trends, and regional perf
 Developed reusable Python scripts for batch cleaning of CSV datasets.
 ## 📄 View My Resume
 
-[Click here to view/download my resume](Resume_Uzair_Pandit_Data Science & Reporting Analytics.pdf)
+📄 **View My Resume**  
+[Click here to view/download my resume](Resume_Uzair_Pandit_Data%20Science%20%26%20Reporting%20Analytics.pdf)
+
 
 ---
 ## 🤝 Let’s Connect
